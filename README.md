@@ -7,7 +7,7 @@ This project demonstrates an end-to-end data warehousing and analytics solution�
 
 ## 🛠️ Tech Stack & Tools
 
-- **Database:** Microsoft SQL Server / T-SQL
+- **Database:** PostgreSQL / Microsoft SQL Server / T-SQL
 - **Data Modeling:** Star Schema (Fact & Dimension Tables)
 - **Analytics & BI:** SQL, Power BI / Excel
 - **Source Files:** CSV (ERP & CRM systems)
